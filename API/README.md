@@ -1,4 +1,4 @@
-#Executando a API
+# Executando a API
 Para executar a api é necessário ter o Docker instalado no sistema abrir o terminal e executar o seguinte comando:
 
 docker run --name postgres -e POSTGRES_PASSWORD-docker -d postgres
